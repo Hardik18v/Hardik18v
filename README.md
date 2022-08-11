@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [hardikmishra.netlify.app](hardikmishra.netlify.app)
+- 👨‍💻 All of my projects are available at [https://hardikmishra.netlify.app](https://hardikmishra.netlify.app)
 
 - 💬 Ask me about **Web dev**
 
